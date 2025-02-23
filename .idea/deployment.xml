@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Remote Host (7fce1070-03d9-4ecf-b5cb-100ef73a4f2d)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/ejemplo02_fractal2 - OMP" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

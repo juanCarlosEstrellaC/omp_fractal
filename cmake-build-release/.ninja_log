@@ -1,0 +1,5 @@
+# ninja log v6
+22	3753	7620510494544149	build.ninja	363263dd53152596
+43	1035	7620506737439726	CMakeFiles/omp_fractal.dir/fps_counter.cpp.obj	54181dc81a1d4d23
+39	1209	7620506737388525	CMakeFiles/omp_fractal.dir/main.cpp.obj	830c4807f62d0c0f
+1210	1773	7620506749098359	omp_fractal.exe	d890871bccddea5a
